@@ -1,5 +1,5 @@
 #megasync-elementary
-This script replaces the inconsistent (and awful) MEGAsync tray icons with elementary-styled monochrome icons by installing a patched verison of sni-qt!
+Set of elementary-styled monochrome icons for MEGAsync.
 
 #Screenshot
 ![The new icons](https://raw.githubusercontent.com/cybre/megasync-wrapper/master/Preview.png)
@@ -12,4 +12,4 @@ This script replaces the inconsistent (and awful) MEGAsync tray icons with eleme
     sudo ./install.sh
 
 #Note
-This script is based on "skype-wrapper".
+The install script installs a patched version of sni-qt!
