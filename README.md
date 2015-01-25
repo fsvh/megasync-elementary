@@ -9,7 +9,7 @@ Set of elementary-styled monochrome icons for MEGAsync.
     cd
     git clone https://github.com/cybre/megasync-elementary.git
     cd megasync-elementary
-    sudo ./install.sh
+    ./install.sh
 
 #Note
 The install script installs a patched version of sni-qt!
