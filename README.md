@@ -2,7 +2,7 @@
 Set of elementary-styled monochrome icons for MEGAsync.
 
 #Screenshot
-![The new icons](https://raw.githubusercontent.com/cybre/megasync-elementary/master/Preview.png)
+![The new icons](https://raw.githubusercontent.com/fsvh/megasync-elementary/master/Preview.png)
 
 #Usage
 
