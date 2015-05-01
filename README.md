@@ -6,8 +6,7 @@ Set of elementary-styled monochrome icons for MEGAsync.
 
 #Usage
 
-    cd
-    git clone https://github.com/cybre/megasync-elementary.git
+    git clone https://github.com/fsvh/megasync-elementary.git
     cd megasync-elementary
     ./install.sh
 
